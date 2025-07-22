@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Core runtime dependencies
+setuptools>=42.0.0
+
+# 如果需要使用 OpenAI 进行摘要或对话 (demo_openai.py)，则安装：
+openai>=0.27.0
+
+# 用于执行单元测试（可选，如果你创建了 tests/test_memory.py）
+pytest>=7.0.0
+
+# pip install -e .  # 安装本地包
+# pip install -r requirements.txt  # 安装可选依赖
