@@ -13,7 +13,7 @@ It supports both **JSON** and **SQLite** backends and features a **pluggable sum
 
 ## 📌 Originality & Archival Record
 
-This project was originally developed and published by **SUN XU** in July 2025.
+This project was originally developed and published by **YZXY6151** in July 2025.
 
 🧾 **Design & Originality Declaration**  
 📄 [Archive.org Snapshot (EN)](https://archive.org/details/dual-db-memory-plugin-originality-en)  
@@ -158,9 +158,12 @@ Thank you for taking a look 🙏
 
 ## 📄 License
 
-Released under the **MIT License**.  
+Released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** License.  
 See [LICENSE](./LICENSE) for full terms.
 
----
+> This package is officially maintained by **YZXY6151**.  
+> Any unofficial versions or derivatives **must** retain attribution and **clearly indicate changes**.  
+> Commercial use is **not permitted** without explicit permission.
+
 
 © 2025 YZXY6151 — DualDB Memory Plugin
