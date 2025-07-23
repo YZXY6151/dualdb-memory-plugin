@@ -1,7 +1,6 @@
 # dualdb-memory-plugin
 
 [![PyPI](https://img.shields.io/pypi/v/dualdb-memory-plugin.svg)](https://pypi.org/project/dualdb-memory-plugin/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://github.com/YZXY6151/dualdb-memory-plugin/actions/workflows/python-test.yml/badge.svg)](https://github.com/YZXY6151/dualdb-memory-plugin/actions)
 
 ---
