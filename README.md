@@ -165,5 +165,6 @@ See [LICENSE](./LICENSE) for full terms.
 > Any unofficial versions or derivatives **must** retain attribution and **clearly indicate changes**.  
 > Commercial use is **not permitted** without explicit permission.
 
+© 2025 YZXY6151 — DualDB Memory Plugin  
+All rights reserved under CC BY-NC-SA 4.0. For non-commercial use only.
 
-© 2025 YZXY6151 — DualDB Memory Plugin
