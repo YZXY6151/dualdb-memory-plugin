@@ -14,7 +14,7 @@ setup(
     description="Lightweight AI dialogue memory rotation plugin with dual DB (JSON/SQLite) and pluggable summarizer",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="SUN XU",
+    author="YZXY6151",
     author_email="yzxy6151@gmail.com",
     url="https://github.com/YZXY6151/dualdb-memory-plugin",
     license="CC BY-NC-SA 4.0",
