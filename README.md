@@ -11,18 +11,21 @@ It supports both **JSON** and **SQLite** backends and features a **pluggable sum
 
 ---
 
-> ⚠️ **Original Architectural Design Notice**  
-> 
-> This project presents an **original AI memory plugin architecture**, proposed in **July 2025**, specifically designed to support:
-> 
-> - ✅ **Permanent long-term memory**
-> - ✅ **Automatic summarization and memory rotation**
-> - ✅ **Lightweight dual-database storage (JSON / SQLite)**
-> 
-> 📦 The **core structure and prototype implementation are complete**, with plans to improve storage strategies and AI model orchestration through open collaboration.
-> 
-> 🛡 **Please retain author attribution** in any forks, adaptations, integrations, or derivative designs based on this structure.  
-> This work reflects an independent effort and a unique contribution to practical AI memory engineering.
+## 📌 Originality and Archive Record
+
+This project, **DualDB Memory Plugin**, was originally designed and authored by **SUN XU** in July 2025.
+
+🧾 **Declaration Document (Originality & Design Plan)**  
+📄 [Archive.org Snapshot (EN)](https://archive.org/details/dual-db-memory-plugin-originality-en)  
+📅 Archived on: 2025-07-22
+
+💻 **Source Code Snapshot (Software Heritage)**  
+🔗 [Snapshot link](https://archive.softwareheritage.org/browse/snapshot/20c63a71da5a33884f1615b18fcec904f99de0bb/)  
+🆔 `swh:1:snp:20c63a71da5a33884f1615b18fcec904f99de0bb`  
+📅 Archived on: 2025-07-23
+
+📜 License: **CC BY-NC-SA 4.0 International**  
+> Redistribution and derivative use allowed under the terms of attribution and non-commercial use.
 
 
 ---
