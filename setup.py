@@ -26,7 +26,7 @@ setup(
     python_requires=">=3.7",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: Free To Use But Restricted",
     ],
     entry_points={
         "console_scripts": [
