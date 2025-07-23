@@ -17,7 +17,7 @@ setup(
     author="YZXY6151",
     author_email="yzxy6151@gmail.com",
     url="https://github.com/YZXY6151/dualdb-memory-plugin",
-    license="MIT",
+    license="CC BY-NC-SA 4.0",
     packages=find_packages(),
     install_requires=[
         # 如果需要 OpenAI 摘要，则取消注释下面一行
