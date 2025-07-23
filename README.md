@@ -11,21 +11,26 @@ It supports both **JSON** and **SQLite** backends and features a **pluggable sum
 
 ---
 
-## 📌 Originality and Archive Record
+## 📌 Originality & Archival Record
 
-This project, **DualDB Memory Plugin**, was originally designed and authored by **SUN XU** in July 2025.
+This project was originally developed and published by **SUN XU** in July 2025.
 
-🧾 **Declaration Document (Originality & Design Plan)**  
+🧾 **Design & Originality Declaration**  
 📄 [Archive.org Snapshot (EN)](https://archive.org/details/dual-db-memory-plugin-originality-en)  
 📅 Archived on: 2025-07-22
 
 💻 **Source Code Snapshot (Software Heritage)**  
-🔗 [Snapshot link](https://archive.softwareheritage.org/browse/snapshot/20c63a71da5a33884f1615b18fcec904f99de0bb/)  
+🔗 [Permanent snapshot](https://archive.softwareheritage.org/browse/snapshot/20c63a71da5a33884f1615b18fcec904f99de0bb/)  
 🆔 `swh:1:snp:20c63a71da5a33884f1615b18fcec904f99de0bb`  
 📅 Archived on: 2025-07-23
 
 📜 License: **CC BY-NC-SA 4.0 International**  
-> Redistribution and derivative use allowed under the terms of attribution and non-commercial use.
+> Attribution required. Non-commercial reuse and modification allowed under the license terms.
+
+---
+
+_We welcome contributions, integrations, and community feedback. If you adapt or build upon this work, please preserve authorship and link to the archival records above._
+ the terms of attribution and non-commercial use.
 
 
 ---
