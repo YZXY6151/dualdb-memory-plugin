@@ -14,7 +14,7 @@ class JsonStore:
         self.file_path = file_path
         self.lock = Lock()
         # 初始化或清空文件
-        os.makedirs(os.path.dirname(self.file_path), exist_ok=True)
+        os.makedirs(os.path.dirname(self.file_path) or ".", exist_ok=True)
         with open(self.file_path, "w", encoding="utf-8") as f:
             json.dump([], f, ensure_ascii=False, indent=2)
 
